@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Particle Wave",
+  "description": "A high-performance, interactive 3D particle wave simulation using React Three Fiber. Features smooth sine-wave undulations that react dynamically to mouse hovering.",
+  "requestFramePermissions": []
+}
